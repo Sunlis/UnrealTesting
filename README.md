@@ -23,4 +23,4 @@ Mucking around with Unreal Engine
    - You should see something [like this](http://i.imgur.com/J9qofTm.png)
  - Once that's done, click the ["Clone in Desktop" button](http://i.imgur.com/WJkEn9q.png)
    - This should open up in the Github app and let you pull down the project
-   - Even the "empty" project is about 1GB, so it might take a minute to pull down the first copy
+   - Even the "empty" project is about 1GB, so it might take a hot minute to pull down the first copy
